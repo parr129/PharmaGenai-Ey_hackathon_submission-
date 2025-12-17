@@ -1,10 +1,10 @@
 # PharmaGen AI – Agentic Intelligence for Drug Repurposing
 
 **Demo Video:**
-[https://drive.google.com/file/d/1ayOzmOagxb6d8gOtbc9X3kbs6_tpHFqF/view](https://drive.google.com/file/d/1ayOzmOagxb6d8gOtbc9X3kbs6_tpHFqF/view)
+(https://drive.google.com/file/d/1ayOzmOagxb6d8gOtbc9X3kbs6_tpHFqF/view)
 
 **Sample PDF Output:**
-[https://drive.google.com/file/d/17FXpavjIGk6ungP044fst8bAxvU7mlmB/view](https://drive.google.com/file/d/17FXpavjIGk6ungP044fst8bAxvU7mlmB/view)
+(https://drive.google.com/file/d/17FXpavjIGk6ungP044fst8bAxvU7mlmB/view)
 
 ---
 
@@ -167,13 +167,6 @@ Streamlit Dashboard + PDF Report
 
 ---
 
-## UI Wireframes
-
-![Dashboard UI](assets/ui_dashboard.png)
-
-![PDF Output](assets/pdf_output.png)
-
----
 
 ## Demo & Outputs
 
@@ -207,3 +200,4 @@ EY Techathon 6.0 – Pharmaceutical Challenge
 ---
 
 **Thank You**
+
