@@ -11,7 +11,6 @@ Sample PDF Output:
 EY Techathon 6.0 Submission
 Team Name: keshavpareek2022
 Author: Keshav Pareek
-Contact: 7558440297
 Date: 09-11-2025
 
 Overview
@@ -168,3 +167,4 @@ Acknowledgements
 EY Techathon 6.0 – Pharmaceutical Challenge
 
 Thank You
+
